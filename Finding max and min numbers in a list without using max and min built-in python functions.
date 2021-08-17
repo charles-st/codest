@@ -1,0 +1,14 @@
+# finding maximum and minimum in a list of numbers. 
+# as long as there’re no repeated numbers, it works well. 
+def max_min(data):
+      largest = data[0]
+      smallest = data[0]
+      for k in data:
+          if k > largest:
+              largest = k
+          else:
+              smallest = k
+      print(f”{largest, smallest}”)
+
+
+max_min(data=list(eval(input(“: “))))
