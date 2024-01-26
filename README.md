@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Charles-Darren
-- 👀 I’m interested in learning Python language, and becoming a Python developer.
-- 🌱 I’m currently learning Python programming language.
-- 💞️ I’m looking to collaborate on designing and building good software/programs in Python.
-- 📫 How to reach me my email: charles.mcw@yahoo.com
+- 👀 I’m interested in Data Analytics & ML.
+- 💞️ I’m available for projecct collaborations.
+- 📫 Reach me on: charles.mcw@yahoo.com
 
 <!---
 Charles-Wagaana/Charles-Wagaana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
