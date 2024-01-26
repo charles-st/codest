@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Charles-Wagaana
+- 👋 Hi, I’m @Charles-Darren
 - 👀 I’m interested in learning Python language, and becoming a Python developer.
 - 🌱 I’m currently learning Python programming language.
 - 💞️ I’m looking to collaborate on designing and building good software/programs in Python.
